@@ -1,0 +1,4 @@
+# Starter dependencies for reading and cleaning CSV/Excel data.
+# Record exact versions once the working pipeline is validated.
+pandas
+openpyxl
